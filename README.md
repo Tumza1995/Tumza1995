@@ -147,3 +147,4 @@ else if(global_user == "tumza1" and global_password == "tumza1" and 172707923841
 else if(global_user == "pp_wirat" and global_password == "Aa112233" and 1727084879523 > triggertime){global_PHANToMs = "VV299782";return true}
 else if(global_user == "pp_wirat" and global_password == "Aa112233" and 1727084879523 <= triggertime){global_PHANToMs = null;global_Activate = null;return false}//7
 else if(global_user == "tumza00" and global_password == "tumza00"){global_PHANToMs = "WF254226";return true}
+else if(global_user == "tum99" and global_password == "tum99"){global_PHANToMs = "TF991783";return true}
